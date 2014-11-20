@@ -13,7 +13,7 @@ For early access to new and possibly not-ready-for-production features, you can 
 
 ```R
 library(devtools)
-install_github('rSynapseClient', 'Sage-Bionetworks', ref='develop')
+install_github('Sage-Bionetworks/rSynapseClient', ref='develop')
 ```
 
 ## Getting Started
