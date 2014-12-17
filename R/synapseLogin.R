@@ -78,6 +78,7 @@ synapseLogin <- function(username = "", password = "", sessionToken = "", apiKey
         ## Need to read from the config file
         } else {
             config <- try(ConfigParser(path=credentials$synapseConfig))
+            print(config)
             if (class(config) != "try-error") {
                 if (all(Config.hasOption(config, "authentication", "username"))) {
                     userName(Config.getOption(config, "authentication", "username"))
