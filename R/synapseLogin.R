@@ -11,7 +11,7 @@ setApiCredentials <-
   hmacSecretKey(secretKey)
 }
 
-synapseLogin <- function(username = "", password = "", sessionToken = "", apiKey = "", rememberMe = FALSE) {
+synapseLogin <- function(username = "", password = "", sessionToken = "", apiKey = "", synapseConfig= "", rememberMe = FALSE) {
     ## parameters must be of length 1
     if(any(length(username) !=1 || length(password) != 1 || length(sessionToken) != 1 || length(apiKey) != 1))
         stop("Please provide a single username and password")
@@ -24,9 +24,12 @@ synapseLogin <- function(username = "", password = "", sessionToken = "", apiKey
     if(is.null(password))     password <- ""
     if(is.null(sessionToken)) sessionToken <- ""
     if(is.null(apiKey))       apiKey <- ""
+    if(is.null(synapseConfig)) synapseConfig <- ""
     
     credentials <- list(username = username, password = password, 
-                        sessionToken = sessionToken, apiKey = apiKey)
+                        sessionToken = sessionToken, apiKey = apiKey,
+                        synapseConfig=synapseConfig)
+    
     synapseLogout(localOnly=TRUE, silent=TRUE)
     .doAuth(credentials)
   
@@ -74,7 +77,7 @@ synapseLogin <- function(username = "", password = "", sessionToken = "", apiKey
         
         ## Need to read from the config file
         } else {
-            config <- try(ConfigParser())
+            config <- try(ConfigParser(path=credentials$synapseConfig))
             if (class(config) != "try-error") {
                 if (all(Config.hasOption(config, "authentication", "username"))) {
                     userName(Config.getOption(config, "authentication", "username"))
