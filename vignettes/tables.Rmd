@@ -165,7 +165,7 @@ rm(df)
 
 Now we proceed using the created file only:
 ```{r inmem, include=TRUE, eval=FALSE}
-tcresult <- as.tableColumns(df)
+tcresult <- as.tableColumns(file)
 cols <- tcresult$tableColumns
 fileHandleId <- tcresult$fileHandleId
 
