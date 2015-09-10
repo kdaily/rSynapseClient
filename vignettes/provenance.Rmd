@@ -1,0 +1,75 @@
+---
+title: "Synapse Provenance"
+date: "`r Sys.Date()`"
+author: "Bruce Hoff (bruce.hoff@sagebase.org), Kenneth Daily (kenneth.daily@sagebase.org)"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Provenance}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r loadClient, include=FALSE, eval=TRUE}
+if( file.exists("~/.Rprofile") )
+  source("~/.Rprofile")
+require(synapseClient)
+library(knitr)
+knitr::opts_knit$set(progress=TRUE, verbose=TRUE)
+```
+
+## Overview
+
+Synapse provides advanced capabilities for formally tracking the relationship between digital assets (e.g. data, code, analytical results) stored within the system through the Synapse provenance system in order to aide in disseminating their work in ways that others can reproduce and reuse.
+The Synapse provenance system allows users to formally track their analysis history by aiding in the communication and sharing of a sequence of processing steps.
+Provenance relationships can, for example, be specified between raw data, analysis code and results that occur in a complex processing pipeline, regardless of where it is run.
+
+Provenance relationships can be easily specified from the R Synapse client.
+These relationship can reference any object in Synapse (e.g. Files) or other web-accessable resources (e.g. code stored in GitHub).
+
+For more information on provenance in Synapse, see [here](https://www.synapse.org/#!Wiki:syn2305384/ENTITY).
+
+Create a file:
+
+```{r}
+file <- File(path="/tmp/test.txt", parentId="syn2367745")
+```
+
+Store it, indicating that another entity was used to create it.
+
+```{r}
+file <- synStore(file, used=list("syn2824593"))
+```
+
+```{r}
+# get the provenance record
+provenance <- generatedBy(file)
+provenance
+```
+
+Now I change the file on my disk, to make synStore upload the file again.
+
+```{r}
+file <- synStore(file)
+```
+
+Check the provenance record using `generatedBy(file)`.  It's non-existent for this new version.
+
+```{r}
+propertyValue(file, "versionNumber")
+```
+
+So version #2 has "lost" the provenance. 
+Let's make version #3 have the same provenance as version #1.
+
+```{r}
+version1 <- synGet(propertyValue(file, "id"), version=1)
+propertyValue(version1, "versionNumber")
+generatedBy(version1)
+```
+
+We change the file on disk again.
+Here's the key step:  we make the generating activity for the new version equal to that which 'generated' version #1:
+
+```{r}
+version3 <- synStore(file, activity=generatedBy(version1))
+```
