@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.4">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" PRESET="2" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Letter" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="AR PL UMing CN Light" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="BenQ PJ" DPPr="Fogra27L CMYK Coated Press" DPIn="BenQ PJ" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="BenQ PJ" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="SageBlue" RGB="#1e7098" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Code" LINESP="10" VOR="1" NACH="2" CPARENT="Code"/>
+        <STYLE NAME="Code description" ALIGN="3" LINESP="8" INDENT="15" FIRST="0" VOR="0" CPARENT="Code description"/>
+        <STYLE NAME="BlockHeader" ALIGN="1" LINESPMode="1" FONT="DejaVu Sans Book" FONTSIZE="16" FCOLOR="White" LANGUAGE="English"/>
+        <STYLE NAME="SmallParagraph" ALIGN="3" LINESPMode="0" LINESP="8" FONT="DejaVu Serif Book" FONTSIZE="6"/>
+        <STYLE NAME="Paragraph" ALIGN="3" LINESP="10" FONT="DejaVu Serif Book" FONTSIZE="8" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Code" FONT="DejaVu Sans Mono Bold" FONTSIZE="8"/>
+        <CHARSTYLE CNAME="Code description" FONT="DejaVu Serif Book" FONTSIZE="8" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="1" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="1" LEVEL="0" NAME="BG Image" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="0.2" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="hp_color_LaserJet_4650" filename="" separationName="All" printerCommand="">
+            <Separation Name="Cyan"/>
+            <Separation Name="Magenta"/>
+            <Separation Name="Yellow"/>
+            <Separation Name="Black"/>
+        </Printer>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="BenQ PJ" ImageP="BenQ PJ" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="DejaVu Sans ExtraLight"/>
+            <Subset Name="AR PL UMing CN Light"/>
+            <Subset Name="DejaVu Sans Bold"/>
+            <Subset Name="DejaVu Sans Book"/>
+            <Subset Name="DejaVu Sans Mono Bold"/>
+            <Subset Name="DejaVu Serif Bold"/>
+            <Subset Name="DejaVu Serif Book"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="1" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="892" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="1" LEFT="0" PRESET="2" VerticalGuides="20 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="5" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="672" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="1" LEFT="0" PRESET="2" VerticalGuides="20 520 272.375 267.594 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="5" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="917" YPOS="84.25" WIDTH="235.5" HEIGHT="38.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.5 0 235.5 0 235.5 0 235.5 0 235.5 38.75 235.5 38.75 235.5 38.75 235.5 38.75 0 38.75 0 38.75 0 38.75 0 38.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.5 0 235.5 0 235.5 0 235.5 0 235.5 38.75 235.5 38.75 235.5 38.75 235.5 38.75 0 38.75 0 38.75 0 38.75 0 38.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="20" CH="R Client"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="DejaVu Sans ExtraLight" FONTSIZE="14" CH="Cheat Sheet"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="954.75" YPOS="41" WIDTH="160" HEIGHT="40" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.450704225352113" LOCALSCY="0.450704225352113" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Presentations/20150518_LINCS/img/synapse.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 40 160 40 160 40 160 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 40 160 40 160 40 160 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="910" YPOS="125" WIDTH="249.5" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="SageBlue" PCOLOR2="White" TXTFILL="White" TXTBASE="-3" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 244.5 0 244.5 0 244.5 0 247.261 0 249.5 5 249.5 2.23858 249.5 5 249.5 5 249.5 13 249.5 13 249.5 13 249.5 15.7614 244.5 18 247.261 18 244.5 18 244.5 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="5 0 5 0 244.5 0 244.5 0 244.5 0 247.261 0 249.5 5 249.5 2.23858 249.5 5 249.5 5 249.5 13 249.5 13 249.5 13 249.5 15.7614 244.5 18 247.261 18 244.5 18 244.5 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.5" gYpos="0.5" gWidth="241.75" gHeight="114.5" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Installation"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="910.25" YPOS="144.5" WIDTH="249.25" HEIGHT="90.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="SageBlue" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="1" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 249.25 0 249.25 0 249.25 0 249.25 0 249.25 90.5 249.25 90.5 249.25 90.5 249.25 90.5 0 90.5 0 90.5 0 90.5 0 90.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 249.25 0 249.25 0 249.25 0 249.25 0 249.25 90.5 249.25 90.5 249.25 90.5 249.25 90.5 0 90.5 0 90.5 0 90.5 0 90.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.75" gYpos="24" gWidth="241.75" gHeight="114.5" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="From source:"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="source('http://depot.sagebase.org/CRAN.R')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="pkgInstall(c(&quot;synapseClient&quot;))"/>
+            <para PARENT="Code"/>
+            <para/>
+            <ITEXT CH="From Github using devtools:"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="install_github('Sage-Bionetworks/rSynapseClient')"/>
+            <trail PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="911.00944354545" YPOS="241.067593983069" WIDTH="248.49055645455" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="1" PWIDTH="1.14340241259106" PCOLOR="SageBlue" PCOLOR2="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 243.491 0 243.491 0 243.491 0 246.252 0 248.491 5 248.491 2.23858 248.491 5 248.491 5 248.491 13 248.491 13 248.491 13 248.491 15.7614 243.491 18 246.252 18 243.491 18 243.491 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="5.28703 0 5.28703 0 243.204 0 243.204 0 243.204 0 246.123 0 248.49 4.5 248.49 2.01472 248.49 4.5 248.49 4.5 248.49 13.5 248.49 13.5 248.49 13.5 248.49 15.9852 243.204 18 246.123 18 243.204 18 243.204 18 5.28703 18 5.28703 18 5.28703 18 2.36709 18 0 13.5 0 15.9852 0 13.5 0 13.5 0 4.5 0 4.5 0 4.5 0 2.01472 5.28703 0 2.36709 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.576422979020791" gYpos="0.566979433570282" gWidth="240.06697943357" gHeight="85.9993854505011" PSTYLE="BlockHeader" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Logging In"/>
+            <breakframe/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="911.517771489015" YPOS="261" WIDTH="247.982228510985" HEIGHT="68.5000000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.00832794356495" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.982 0 247.982 0 247.982 0 247.982 0 247.982 68.5 247.982 68.5 247.982 68.5 247.982 68.5 0 68.5 0 68.5 0 68.5 0 68.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.982 0 247.982 0 247.982 0 247.982 0 247.982 68.5 247.982 68.5 247.982 68.5 247.982 68.5 0 68.5 0 68.5 0 68.5 0 68.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.08475092258576" gYpos="27.4993854505011" gWidth="240.06697943357" gHeight="85.9993854505011" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="To interact with Synapse from the R client, authenticate with the username and password you used to sign up on the Synapse web site."/>
+            <para PARENT="Paragraph"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="synapseLogin(username, passwd, rememberMe)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Set rememberMe=TRUE to store credentials locally, after which you can use "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="synapseLogin()"/>
+            <ITEXT CH="."/>
+            <trail PARENT="Code description"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="1042.5" YPOS="614" WIDTH="7.49999999999977" HEIGHT="8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0781249999999976" LOCALSCY="0.0781249999999976" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Presentations/20151027_U4C/img/sage_logo.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 7.5 0 7.5 0 7.5 0 7.5 0 7.5 8 7.5 8 7.5 8 7.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 7.5 0 7.5 0 7.5 0 7.5 0 7.5 8 7.5 8 7.5 8 7.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1044.5" gYpos="614" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="909.75" YPOS="614.25" WIDTH="754.125" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Group5" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="1" groupsLastItem="3" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 754.125 0 754.125 0 754.125 0 754.125 0 754.125 7.5 754.125 7.5 754.125 7.5 754.125 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 754.125 0 754.125 0 754.125 0 754.125 0 754.125 7.5 754.125 7.5 754.125 7.5 754.125 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="909.75" YPOS="614.25" WIDTH="134.5625" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 134.563 0 134.563 0 134.563 0 134.563 0 134.563 7.5 134.563 7.5 134.563 7.5 134.563 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 134.563 0 134.563 0 134.563 0 134.563 0 134.563 7.5 134.563 7.5 134.563 7.5 134.563 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="753.5" gHeight="7.5" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH="Synapse is developed by Sage Bionetworks"/>
+            <trail ALIGN="0" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1381.75" YPOS="614.25" WIDTH="282.125" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 282.125 0 282.125 0 282.125 0 282.125 0 282.125 7.5 282.125 7.5 282.125 7.5 282.125 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 282.125 0 282.125 0 282.125 0 282.125 0 282.125 7.5 282.125 7.5 282.125 7.5 282.125 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="472" gYpos="0" gWidth="753.5" gHeight="7.5" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH="Learn more with browseVignettes(&quot;synapseClient&quot;) - synapseClient 1.10-0"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1050.75" YPOS="614.25" WIDTH="275.5625" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 275.563 0 275.563 0 275.563 0 275.563 0 275.563 7.5 275.563 7.5 275.563 7.5 275.563 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 275.563 0 275.563 0 275.563 0 275.563 0 275.563 7.5 275.563 7.5 275.563 7.5 275.563 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="141" gYpos="0" gWidth="753.5" gHeight="7.5" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="www.synapse.org"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="6" CH="Github"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="Sage-Bionetworks/rSynapseClient"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="6" CH="Twitter:"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" "/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="@SageSynapse"/>
+            <trail ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="40.067594" WIDTH="499.40625" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="1" PWIDTH="1.133958867" PCOLOR="SageBlue" PCOLOR2="White" TXTFILL="White" TXTBASE="-3" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 494.406 0 494.406 0 494.406 0 497.168 0 499.406 5 499.406 2.23858 499.406 5 499.406 5 499.406 13 499.406 13 499.406 13 499.406 15.7614 494.406 18 497.168 18 494.406 18 494.406 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="10.6256 0 10.6256 0 488.78 0 488.78 0 488.78 0 494.648 0 499.406 4.5 499.406 2.01472 499.406 4.5 499.406 4.5 499.406 13.5 499.406 13.5 499.406 13.5 499.406 15.9852 488.78 18 494.648 18 488.78 18 488.78 18 10.6256 18 10.6256 18 10.6256 18 4.75728 18 0 13.5 0 15.9852 0 13.5 0 13.5 0 4.5 0 4.5 0 4.5 0 2.01472 10.6256 0 4.75728 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="505" gHeight="410" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Storing and Updating Content in Synapse"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="60.75" WIDTH="246.65625" HEIGHT="153.25" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.656 0 246.656 0 246.656 0 246.656 0 246.656 153.25 246.656 153.25 246.656 153.25 246.656 153.25 0 153.25 0 153.25 0 153.25 0 153.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.656 0 246.656 0 246.656 0 246.656 0 246.656 153.25 246.656 153.25 246.656 153.25 246.656 153.25 0 153.25 0 153.25 0 153.25 0 153.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="250" gHeight="545.25" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="The main command for storing and updating any object in Synapse is:"/>
+            <para PARENT="Paragraph"/>
+            <para/>
+            <ITEXT FONTSIZE="8" CH="synStore(entity)"/>
+            <para PARENT="Code" ALIGN="1"/>
+            <para PARENT="Paragraph" ALIGN="1"/>
+            <ITEXT CH="where entity is a Synapse entity. Whenever you create a new entity, call "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="synStore"/>
+            <ITEXT CH=" to put that entity into Synapse. If you create a new version of an entity, use "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="synStore"/>
+            <ITEXT CH=" to add it. If you add or change annotations on an existing entity, use "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="synStore"/>
+            <ITEXT CH=" to save them. If you create an activity describing how a file was created, "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="synStore"/>
+            <ITEXT CH=" will add it."/>
+            <para PARENT="Paragraph"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1416.75" YPOS="60.75" WIDTH="247.125" HEIGHT="151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 151 247.125 151 247.125 151 247.125 151 0 151 0 151 0 151 0 151 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 151 247.125 151 247.125 151 247.125 151 0 151 0 151 0 151 0 151 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail PARENT="Code description"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="432.067594" WIDTH="499.40625" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="1" PWIDTH="1.133958867" PCOLOR="SageBlue" PCOLOR2="White" TXTFILL="White" TXTBASE="-3" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 494.406 0 494.406 0 494.406 0 497.168 0 499.406 5 499.406 2.23858 499.406 5 499.406 5 499.406 13 499.406 13 499.406 13 499.406 15.7614 494.406 18 497.168 18 494.406 18 494.406 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="10.6257 0 10.6257 0 488.78 0 488.78 0 488.78 0 494.648 0 499.406 4.5 499.406 2.01472 499.406 4.5 499.406 4.5 499.406 13.5 499.406 13.5 499.406 13.5 499.406 15.9852 488.78 18 494.648 18 488.78 18 488.78 18 10.6257 18 10.6257 18 10.6257 18 4.75727 18 0 13.5 0 15.9852 0 13.5 0 13.5 0 4.5 0 4.5 0 4.5 0 2.01472 10.6257 0 4.75727 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="392" gWidth="505" gHeight="410" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Annotations"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="452.75" WIDTH="250" HEIGHT="153.25" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 250 0 250 0 250 0 250 0 250 153.25 250 153.25 250 153.25 250 153.25 0 153.25 0 153.25 0 153.25 0 153.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 250 0 250 0 250 0 250 0 250 153.25 250 153.25 250 153.25 250 153.25 0 153.25 0 153.25 0 153.25 0 153.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="392" gWidth="250" gHeight="545.25" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Annotations in Synapse are key-value pairs that are user-defined. These can be added to most entities but are most useful on Files and Folders. Annotations are also queryable, facilitating searching for entities in Synapse within a Project or across all Projects available in Synapse."/>
+            <para PARENT="Paragraph"/>
+            <para/>
+            <ITEXT CH="synSetAnnotation(myFile, ‘x’) &lt;- 'abc'"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Set a single annotation"/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="synSetAnnotations(myFile) &lt;- list(x='abc', y=1)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Replace all existing annotations"/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="annot &lt;- synGetAnnotation(myFile, ‘x’)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get a single annotation"/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="annots &lt;- synGetAnnotations(myFile)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get all annotations"/>
+            <trail PARENT="Code description"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1416.75" YPOS="452.75" WIDTH="247.125" HEIGHT="151" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 151 247.125 151 247.125 151 247.125 151 0 151 0 151 0 151 0 151 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 151 247.125 151 247.125 151 247.125 151 0 151 0 151 0 151 0 151 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="256.0669794335" gYpos="28.4993854335" gWidth="493.066979467" gHeight="180.4993854335" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Synapse annotations are queryable using an SQL-like query language. Queries are of the form:"/>
+            <para PARENT="SmallParagraph"/>
+            <para/>
+            <ITEXT CH="SELECT col1, [col2, ...] FROM [file,folder,entity] WHERE qualifier1, [qualifier2, ...]"/>
+            <para PARENT="Code"/>
+            <para/>
+            <ITEXT CH="Qualifiers can test for equality"/>
+            <para PARENT="SmallParagraph"/>
+            <para/>
+            <ITEXT CH="foo &lt;- synQuery(‘select * from …’)"/>
+            <trail PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="222.067594" WIDTH="499.40625" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="1" PWIDTH="1.133958867" PCOLOR="SageBlue" PCOLOR2="White" TXTFILL="White" TXTBASE="-3" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 494.406 0 494.406 0 494.406 0 497.168 0 499.406 5 499.406 2.23858 499.406 5 499.406 5 499.406 13 499.406 13 499.406 13 499.406 15.7614 494.406 18 497.168 18 494.406 18 494.406 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="10.6256 0 10.6256 0 488.781 0 488.781 0 488.781 0 494.648 0 499.406 4.5 499.406 2.01472 499.406 4.5 499.406 4.5 499.406 13.5 499.406 13.5 499.406 13.5 499.406 15.9852 488.781 18 494.648 18 488.781 18 488.781 18 10.6256 18 10.6256 18 10.6256 18 4.75728 18 0 13.5 0 15.9852 0 13.5 0 13.5 0 4.5 0 4.5 0 4.5 0 2.01472 10.6256 0 4.75728 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="182" gWidth="505" gHeight="410" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Downloading from Synapse"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1164.46875" YPOS="242.75" WIDTH="246.84375" HEIGHT="183.25" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.844 0 246.844 0 246.844 0 246.844 0 246.844 183.25 246.844 183.25 246.844 183.25 246.844 183.25 0 183.25 0 183.25 0 183.25 0 183.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.844 0 246.844 0 246.844 0 246.844 0 246.844 183.25 246.844 183.25 246.844 183.25 246.844 183.25 0 183.25 0 183.25 0 183.25 0 183.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="182" gWidth="250" gHeight="545.25" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Connecting to Synapse allows you to get objects (called Entities) such as a Project, File, Folder, or Table. If you are downloading a File, you are able to download the contents.  We use "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="myFile"/>
+            <ITEXT CH=" in this cheatsheet as the result of one of these operations."/>
+            <para PARENT="Paragraph"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Downloads data to cache"/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123',"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="                 downloadLocation='/tmp')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Downloads data to specified location."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123',"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="                 downloadFile=FALSE) "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get entity without downloading."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile2 &lt;- synGet(id='syn123', version=2)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get a specific version of an entity"/>
+            <trail PARENT="Code description"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="911.00944355" YPOS="334.067594" WIDTH="248.49055645" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="1" PWIDTH="1.143402413" PCOLOR="SageBlue" PCOLOR2="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 243.491 0 243.491 0 243.491 0 246.252 0 248.491 5 248.491 2.23858 248.491 5 248.491 5 248.491 13 248.491 13 248.491 13 248.491 15.7614 243.491 18 246.252 18 243.491 18 243.491 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="5.28703 0 5.28703 0 243.204 0 243.204 0 243.204 0 246.123 0 248.49 4.5 248.49 2.01472 248.49 4.5 248.49 4.5 248.49 13.5 248.49 13.5 248.49 13.5 248.49 15.9852 243.204 18 246.123 18 243.204 18 243.204 18 5.28703 18 5.28703 18 5.28703 18 2.36709 18 0 13.5 0 15.9852 0 13.5 0 13.5 0 4.5 0 4.5 0 4.5 0 2.01472 5.28703 0 2.36709 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.571701206500052" gYpos="0.571701206499995" gWidth="240.057535913" gHeight="268.0041072065" PSTYLE="BlockHeader" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Synapse Organization"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="911.51777149" YPOS="354" WIDTH="247.98222851" HEIGHT="256.875" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.008327944" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.982 0 247.982 0 247.982 0 247.982 0 247.982 256.875 247.982 256.875 247.982 256.875 247.982 256.875 0 256.875 0 256.875 0 256.875 0 256.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.982 0 247.982 0 247.982 0 247.982 0 247.982 256.875 247.982 256.875 247.982 256.875 247.982 256.875 0 256.875 0 256.875 0 256.875 0 256.875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.08002914650001" gYpos="20.5041072065" gWidth="240.057535913" gHeight="268.0041072065" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Synapse provides a familiar hierarchical file storage system. The top level of organization is a "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Project"/>
+            <ITEXT CH=". Each "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Project"/>
+            <ITEXT CH=" can contain any number of "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Files"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Folders"/>
+            <ITEXT CH="."/>
+            <para PARENT="Paragraph"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT FONTSIZE="8" CH="Project"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="8" CH="  Folder"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="8" CH="    File"/>
+            <para PARENT="Code"/>
+            <para PARENT="SmallParagraph"/>
+            <ITEXT CH="Each Entity gets a unique identifier (Synapse ID) of the form syn123456. Entities also have a property parentId, which indicates where the file is in the hierarchy. If a File is inside of a Folder, then the parentId of the File is the Synapse ID of the Folder."/>
+            <para PARENT="SmallParagraph"/>
+            <ITEXT CH="proj &lt;- Project(&quot;My New Project&quot;)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Create a project."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFolder &lt;- File(name=&quot;My New Folder&quot;, "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="                 parentId=&quot;syn123&quot;)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Create a new folder where "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="parentId"/>
+            <ITEXT CH=" is the Synapse ID of a "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Project"/>
+            <ITEXT CH=" (or another "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Folder"/>
+            <ITEXT CH=")."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile &lt;- File(&quot;./myfile.txt&quot;, name=&quot;My New File&quot;,"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="               parentId=&quot;syn123&quot;)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Create a new file from a local file, where "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="parentId"/>
+            <ITEXT CH=" is the Synapse ID of a "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Project"/>
+            <ITEXT CH=" or "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="Folder"/>
+            <ITEXT CH="."/>
+            <para PARENT="Code description"/>
+            <para PARENT="SmallParagraph"/>
+            <ITEXT CH="Each of the Entity creators can also take an entity object (like proj or myFolder) as the parentId parameter instead of a Synapse ID."/>
+            <trail PARENT="SmallParagraph"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="120" YPOS="692" WIDTH="500" HEIGHT="18" RADRECT="5" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="SageBlue" PCOLOR2="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 495 0 495 0 495 0 497.761 0 500 5 500 2.23858 500 5 500 5 500 13 500 13 500 13 500 15.7614 495 18 497.761 18 495 18 495 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="32" COCOOR="5 0 5 0 495 0 495 0 495 0 497.761 0 500 5 500 2.23858 500 5 500 5 500 13 500 13 500 13 500 15.7614 495 18 497.761 18 495 18 495 18 5 18 5 18 5 18 2.23858 18 0 13 0 15.7614 0 13 0 13 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="BlockHeader" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Provenance"/>
+            <trail PARENT="BlockHeader"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="372.75" YPOS="714.5" WIDTH="247.25" HEIGHT="276" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.25 0 247.25 0 247.25 0 247.25 0 247.25 276 247.25 276 247.25 276 247.25 276 0 276 0 276 0 276 0 276 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.25 0 247.25 0 247.25 0 247.25 0 247.25 276 247.25 276 247.25 276 247.25 276 0 276 0 276 0 276 0 276 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="From source:"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="source('http://depot.sagebase.org/CRAN.R')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="pkgInstall(c(&quot;synapseClient&quot;))"/>
+            <para PARENT="Code"/>
+            <para/>
+            <ITEXT CH="From Github using devtools:"/>
+            <para PARENT="Paragraph"/>
+            <ITEXT CH="install_github('Sage-Bionetworks/rSynapseClient')"/>
+            <trail PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="118.75" YPOS="1266" WIDTH="753.5" HEIGHT="8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Group1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="1" groupsLastItem="4" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 753.5 0 753.5 0 753.5 0 753.5 0 753.5 8 753.5 8 753.5 8 753.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 753.5 0 753.5 0 753.5 0 753.5 0 753.5 8 753.5 8 753.5 8 753.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="252.5" YPOS="1266" WIDTH="7.5" HEIGHT="8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.078125" LOCALSCY="0.078125" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Presentations/20151027_U4C/img/sage_logo.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 7.5 0 7.5 0 7.5 0 7.5 0 7.5 8 7.5 8 7.5 8 7.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 7.5 0 7.5 0 7.5 0 7.5 0 7.5 8 7.5 8 7.5 8 7.5 8 0 8 0 8 0 8 0 8 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="118.75" YPOS="1266.25" WIDTH="133.9375" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 133.938 0 133.938 0 133.938 0 133.938 0 133.938 7.5 133.938 7.5 133.938 7.5 133.938 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 133.938 0 133.938 0 133.938 0 133.938 0 133.938 7.5 133.938 7.5 133.938 7.5 133.938 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH="Synapse is developed by Sage Bionetworks"/>
+            <trail ALIGN="0" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="590.75" YPOS="1266.25" WIDTH="281.5" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 281.5 0 281.5 0 281.5 0 281.5 0 281.5 7.5 281.5 7.5 281.5 7.5 281.5 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 281.5 0 281.5 0 281.5 0 281.5 0 281.5 7.5 281.5 7.5 281.5 7.5 281.5 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH="Learn more with browseVignettes(&quot;synapseClient&quot;) - synapseClient 1.10-0"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="259.75" YPOS="1266.25" WIDTH="274.9375" HEIGHT="7.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 274.938 0 274.938 0 274.938 0 274.938 0 274.938 7.5 274.938 7.5 274.938 7.5 274.938 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 274.938 0 274.938 0 274.938 0 274.938 0 274.938 7.5 274.938 7.5 274.938 7.5 274.938 7.5 0 7.5 0 7.5 0 7.5 0 7.5 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="www.synapse.org"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="6" CH="Github"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="Sage-Bionetworks/rSynapseClient"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" - "/>
+            <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="6" CH="Twitter:"/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" CH=" "/>
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="6" FCOLOR="Blue" FSHADE="100" CH="@SageSynapse"/>
+            <trail ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1416.75" YPOS="242.75" WIDTH="247.125" HEIGHT="183.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 183.25 247.125 183.25 247.125 183.25 247.125 183.25 0 183.25 0 183.25 0 183.25 0 183.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.125 0 247.125 0 247.125 0 247.125 0 247.125 183.25 247.125 183.25 247.125 183.25 247.125 183.25 0 183.25 0 183.25 0 183.25 0 183.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Connecting to Synapse allows you to get objects (called Entities) such as a Project, File, Folder, or Table. If you are downloading a File, you are able to download the contents.  We use "/>
+            <ITEXT FONT="DejaVu Sans Mono Bold" CH="myFile"/>
+            <ITEXT CH=" in this cheatsheet as the result of one of these operations."/>
+            <para PARENT="Paragraph"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Downloads data to cache"/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123',"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="                 downloadLocation='/tmp')"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Downloads data to specified location."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile &lt;- synGet(id='syn123',"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="                 downloadFile=FALSE) "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get entity without downloading."/>
+            <para PARENT="Code description"/>
+            <ITEXT CH="myFile2 &lt;- synGet(id='syn123', version=2)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="Get a specific version of an entity"/>
+            <trail PARENT="Code description"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="1188" YPOS="226" WIDTH="200" HEIGHT="200" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="2" LOCALSCY="2" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Presentations/20151027_U4C/img/sage_logo.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 200 200 200 200 200 200 200 0 200 0 200 0 200 0 200 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200 0 200 0 200 0 200 0 200 200 200 200 200 200 200 200 0 200 0 200 0 200 0 200 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="120" YPOS="714.5" WIDTH="247.25" HEIGHT="276" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.25 0 247.25 0 247.25 0 247.25 0 247.25 276 247.25 276 247.25 276 247.25 276 0 276 0 276 0 276 0 276 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.25 0 247.25 0 247.25 0 247.25 0 247.25 276 247.25 276 247.25 276 247.25 276 0 276 0 276 0 276 0 276 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Paragraph" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="3 May. Bistritz.--Left Munich at 8:35 P.M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets. I feared to go very far from the station, as we had arrived late and would start as near the correct time as possible."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="121" YPOS="715" WIDTH="75" HEIGHT="75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.6" LOCALSCY="0.6" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Pictures/provenance.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 75 0 75 0 75 0 75 0 75 75 75 75 75 75 75 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 75 0 75 0 75 0 75 0 75 75 75 75 75 75 75 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="912.625" YPOS="353.875" WIDTH="50" HEIGHT="42.1768707482993" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.340136054421769" LOCALSCY="0.340136054421769" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../Pictures/folder.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 42.1769 50 42.1769 50 42.1769 50 42.1769 0 42.1769 0 42.1769 0 42.1769 0 42.1769 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 42.1769 50 42.1769 50 42.1769 50 42.1769 0 42.1769 0 42.1769 0 42.1769 0 42.1769 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
